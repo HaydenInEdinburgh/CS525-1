@@ -1,6 +1,7 @@
 # project pages:
 https://evakli11.github.io/CS525/
 
+### Team Members: Pengyi Ye(HaydenInEdinburgh), Mengdi Li(evakli11), Chuchen Dai, Guangxin Hu
 # Model design
 ![workflow](workflow.png)
 
